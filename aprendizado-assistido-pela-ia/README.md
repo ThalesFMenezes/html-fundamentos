@@ -10,7 +10,7 @@ Além do curso principal, utilizo inteligência artificial (CHAT GPT) como apoio
 
 A IA é utilizada como uma ferramenta de estudo e mentoria, complementando o aprendizado adquirido nas aulas.
 
-## 📚 Metodologia de Estudo
+## Metodologia de Estudo
 
 Para cada novo conteúdo estudado no curso, eu segui o seguinte processo:
 
