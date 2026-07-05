@@ -1,5 +1,5 @@
 # html-fundamentos
-Meus estudos e projetos cursando Course: Desenvolvimento Web by Jorge Sant Ana &amp; Jamilton Damasceno com o auxílio da Inteligência Artifical "GPT-5.5 Instant"
+Meus estudos e projetos de HTML5 do curso Course: Desenvolvimento Web by Jorge Sant Ana &amp; Jamilton Damasceno com o auxílio da Inteligência Artifical "GPT-5.5 Instant"
 
 ## Método de Estudo
 
