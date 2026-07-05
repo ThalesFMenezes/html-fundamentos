@@ -14,11 +14,11 @@ A IA é utilizada como uma ferramenta de estudo e mentoria, complementando o apr
 
 Para cada novo conteúdo estudado no curso, eu segui o seguinte processo:
 
-1° PASSO: Assistir à aula e realizar os exemplos propostos.
-2° PASSO: Revisar os conceitos principais.
-3° PASSO: Resolver desafios extras propostos pela IA.
-4° PASSO: Registrar anotações e aprendizados neste repositório.
-5° PASSO: Publicar a evolução no GitHub.
+1° PASSO. Assistir à aula e realizar os exemplos propostos.
+2° PASSO. Revisar os conceitos principais.
+3° PASSO. Resolver desafios extras propostos pela IA.
+4° PASSO. Registrar anotações e aprendizados neste repositório.
+5° PASSO. Publicar a evolução no GitHub.
 
 Esse método tem como objetivo consolidar o aprendizado por meio da prática e da revisão contínua.
 
