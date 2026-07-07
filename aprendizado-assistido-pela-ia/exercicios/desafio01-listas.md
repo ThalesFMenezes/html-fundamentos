@@ -1,6 +1,6 @@
 # Desafio 01 - Listas
 
-## 📖 Perguntas
+## Perguntas
 
 ### 1. Qual a diferença entre uma lista ordenada (`<ol>`) e uma lista não ordenada (`<ul>`)?
 
@@ -31,12 +31,12 @@ Crie uma lista não ordenada contendo:
 - JavaScript
 
 Utilize o marcador `circle`.
-
-#### <ul style="list-style-type:circle"> 
+<!--
+<ul style="list-style-type:circle"> 
 <li>HTML</li> 
 <li>CSS</li>
 <li>JavaScript</li> </ul>
-
+-->
 ### Desafio 2
 
 Crie uma lista ordenada contendo:
@@ -47,12 +47,12 @@ Crie uma lista ordenada contendo:
 
 Utilize algarismos romanos maiúsculos.
 
-#### <ol style="list-style-type:I">
+<!-- <ol style="list-style-type:I">
 <li>Introdução</li> 
 <li>Desenvolvimento</li> 
 <li>Conclusão</li> 
 </ol>
-
+-->
 ### Desafio 3
 
 Crie um menu de navegação utilizando uma lista não ordenada com os seguintes itens:
@@ -64,10 +64,10 @@ Crie um menu de navegação utilizando uma lista não ordenada com os seguintes 
 
 Remova os marcadores da lista.
 
-#### <ul style="list-style-type:NONE">
+<!-- <ul style="list-style-type:NONE">
 <li>HOME</li>
 <li>PRODUTOS</li>
 <li>Contato</li>
 <li>Login</li> 
 </ul>
-
+-->
