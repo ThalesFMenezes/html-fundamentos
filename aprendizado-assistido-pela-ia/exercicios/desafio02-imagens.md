@@ -20,7 +20,7 @@
 
 ### 5. Qual a diferença entre um caminho relativo e um caminho absoluto?
 
-#### 
+#### caminho relativo é algo que depende de onde voce está, caminho absoluto é o caminho que especifica toda o caminho para o arquivo
 
 ### 6. Qual destes caminhos é relativo?
 
@@ -36,9 +36,9 @@ src="https://site.com/assets/logo.png"
 
 Explique sua resposta.
 
-#### 
+#### a primeira opção é um caminho relativo pois não é um endereço completo
 
-## 💻 Desafios Práticos
+## Desafios Práticos
 
 ### Desafio 1
 
@@ -59,7 +59,9 @@ Ela deve possuir:
 
 Transforme essa imagem em um link para o Google.
 
-####
+#### <a href="https://google.com">
+    <img src="cachorro.jpg" alt="Foto de um cachorro" width="300">
+</a>
 
 ### Desafio 3
 
@@ -94,5 +96,5 @@ projeto/
 
 Como a página `contato.html` acessaria a imagem?
 
-####
+#### src="../assets/logo.png"
 
